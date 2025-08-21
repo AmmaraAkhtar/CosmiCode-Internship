@@ -1,0 +1,4 @@
+{
+    "moving_average_window": 5,
+    "top_n_categories": 10
+}

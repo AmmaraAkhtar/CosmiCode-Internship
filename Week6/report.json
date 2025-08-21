@@ -1,0 +1,18 @@
+{
+    "summary": {
+        "count": 100,
+        "mean": 50.7938,
+        "median": 51.495000000000005,
+        "stdev": 25.41670029923259
+    },
+    "category_counts": {
+        "D": 23,
+        "B": 22,
+        "A": 29,
+        "C": 26
+    },
+    "chart_path": "category_counts.png",
+    "cleaned_csv": "cleaned.csv",
+    "rows": 100,
+    "moving_average_window": 5
+}

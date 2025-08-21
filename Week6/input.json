@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "value": 52.9,
+        "category": "D"
+    },
+    {
+        "id": 2,
+        "value": 35.54,
+        "category": "B"
+    },
+    {
+        "id": 3,
+        "value": 11.17,
+        "category": "A"
+    },
+    {
+        "id": 4,
+        "value": 87.12,
+        "category": "C"
+    },
+    {
+        "id": 5,
+        "value": 63.91,
+        "category": "A"
+    },
+    {
+        "id": 6,
+        "value": 28.35,
+        "category": "B"
+    },
+    {
+        "id": 7,
+        "value": 68.44,
+        "category": "D"
+    },
+    {
+        "id": 8,
+        "value": 76.77,
+        "category": "B"
+    },
+    {
+        "id": 9,
+        "value": 71.46,
+        "category": "C"
+    },
+    {
+        "id": 10,
+        "value": 56.94,
+        "category": "C"
+    },
+    {
+        "id": 11,
+        "value": 59.75,
+        "category": "D"
+    },
+    {
+        "id": 12,
+        "value": 34.18,
+        "category": "C"
+    },
+    {
+        "id": 13,
+        "value": 70.17,
+        "category": "D"
+    },
+    {
+        "id": 14,
+        "value": 14.89,
+        "category": "B"
+    },
+    {
+        "id": 15,
+        "value": 83.97,
+        "category": "B"
+    },
+    {
+        "id": 16,
+        "value": 38.7,
+        "category": "C"
+    },
+    {
+        "id": 17,
+        "value": 91.02,
+        "category": "C"
+    },
+    {
+        "id": 18,
+        "value": 23.4,
+        "category": "A"
+    },
+    {
+        "id": 19,
+        "value": 74.68,
+        "category": "A"
+    },
+    {
+        "id": 20,
+        "value": 18.31,
+        "category": "D"
+    },
+    {
+        "id": 21,
+        "value": 30.59,
+        "category": "D"
+    },
+    {
+        "id": 22,
+        "value": 11.14,
+        "category": "B"
+    },
+    {
+        "id": 23,
+        "value": 24.63,
+        "category": "C"
+    },
+    {
+        "id": 24,
+        "value": 69.06,
+        "category": "C"
+    },
+    {
+        "id": 25,
+        "value": 36.4,
+        "category": "B"
+    },
+    {
+        "id": 26,
+        "value": 60.91,
+        "category": "A"
+    },
+    {
+        "id": 27,
+        "value": 91.59,
+        "category": "C"
+    },
+    {
+        "id": 28,
+        "value": 71.04,
+        "category": "B"
+    },
+    {
+        "id": 29,
+        "value": 22.88,
+        "category": "D"
+    },
+    {
+        "id": 30,
+        "value": 35.85,
+        "category": "A"
+    },
+    {
+        "id": 31,
+        "value": 68.08,
+        "category": "D"
+    },
+    {
+        "id": 32,
+        "value": 33.37,
+        "category": "D"
+    },
+    {
+        "id": 33,
+        "value": 14.71,
+        "category": "B"
+    },
+    {
+        "id": 34,
+        "value": 52.31,
+        "category": "B"
+    },
+    {
+        "id": 35,
+        "value": 62.82,
+        "category": "A"
+    },
+    {
+        "id": 36,
+        "value": 62.43,
+        "category": "C"
+    },
+    {
+        "id": 37,
+        "value": 37.58,
+        "category": "C"
+    },
+    {
+        "id": 38,
+        "value": 76.47,
+        "category": "A"
+    },
+    {
+        "id": 39,
+        "value": 65.01,
+        "category": "A"
+    },
+    {
+        "id": 40,
+        "value": 78.02,
+        "category": "D"
+    },
+    {
+        "id": 41,
+        "value": 71.45,
+        "category": "A"
+    },
+    {
+        "id": 42,
+        "value": 56.49,
+        "category": "A"
+    },
+    {
+        "id": 43,
+        "value": 27.71,
+        "category": "C"
+    },
+    {
+        "id": 44,
+        "value": 10.25,
+        "category": "C"
+    },
+    {
+        "id": 45,
+        "value": 68.62,
+        "category": "D"
+    },
+    {
+        "id": 46,
+        "value": 56.61,
+        "category": "A"
+    },
+    {
+        "id": 47,
+        "value": 50.68,
+        "category": "B"
+    },
+    {
+        "id": 48,
+        "value": 16.75,
+        "category": "B"
+    },
+    {
+        "id": 49,
+        "value": 37.67,
+        "category": "B"
+    },
+    {
+        "id": 50,
+        "value": 15.0,
+        "category": "D"
+    },
+    {
+        "id": 51,
+        "value": 58.52,
+        "category": "C"
+    },
+    {
+        "id": 52,
+        "value": 36.17,
+        "category": "C"
+    },
+    {
+        "id": 53,
+        "value": 41.5,
+        "category": "D"
+    },
+    {
+        "id": 54,
+        "value": 89.37,
+        "category": "B"
+    },
+    {
+        "id": 55,
+        "value": 11.75,
+        "category": "D"
+    },
+    {
+        "id": 56,
+        "value": 46.4,
+        "category": "C"
+    },
+    {
+        "id": 57,
+        "value": 54.86,
+        "category": "C"
+    },
+    {
+        "id": 58,
+        "value": 91.6,
+        "category": "D"
+    },
+    {
+        "id": 59,
+        "value": 35.14,
+        "category": "A"
+    },
+    {
+        "id": 60,
+        "value": 12.77,
+        "category": "B"
+    },
+    {
+        "id": 61,
+        "value": 92.03,
+        "category": "C"
+    },
+    {
+        "id": 62,
+        "value": 96.67,
+        "category": "A"
+    },
+    {
+        "id": 63,
+        "value": 52.99,
+        "category": "C"
+    },
+    {
+        "id": 64,
+        "value": 83.85,
+        "category": "A"
+    },
+    {
+        "id": 65,
+        "value": 77.26,
+        "category": "A"
+    },
+    {
+        "id": 66,
+        "value": 75.65,
+        "category": "D"
+    },
+    {
+        "id": 67,
+        "value": 23.73,
+        "category": "C"
+    },
+    {
+        "id": 68,
+        "value": 26.22,
+        "category": "D"
+    },
+    {
+        "id": 69,
+        "value": 14.09,
+        "category": "C"
+    },
+    {
+        "id": 70,
+        "value": 29.83,
+        "category": "A"
+    },
+    {
+        "id": 71,
+        "value": 59.94,
+        "category": "A"
+    },
+    {
+        "id": 72,
+        "value": 98.39,
+        "category": "A"
+    },
+    {
+        "id": 73,
+        "value": 95.52,
+        "category": "A"
+    },
+    {
+        "id": 74,
+        "value": 20.87,
+        "category": "A"
+    },
+    {
+        "id": 75,
+        "value": 50.23,
+        "category": "C"
+    },
+    {
+        "id": 76,
+        "value": 26.86,
+        "category": "D"
+    },
+    {
+        "id": 77,
+        "value": 77.71,
+        "category": "D"
+    },
+    {
+        "id": 78,
+        "value": 31.14,
+        "category": "C"
+    },
+    {
+        "id": 79,
+        "value": 37.94,
+        "category": "D"
+    },
+    {
+        "id": 80,
+        "value": 33.24,
+        "category": "A"
+    },
+    {
+        "id": 81,
+        "value": 32.66,
+        "category": "C"
+    },
+    {
+        "id": 82,
+        "value": 76.46,
+        "category": "B"
+    },
+    {
+        "id": 83,
+        "value": 13.84,
+        "category": "D"
+    },
+    {
+        "id": 84,
+        "value": 41.42,
+        "category": "C"
+    },
+    {
+        "id": 85,
+        "value": 94.97,
+        "category": "A"
+    },
+    {
+        "id": 86,
+        "value": 48.83,
+        "category": "D"
+    },
+    {
+        "id": 87,
+        "value": 40.93,
+        "category": "A"
+    },
+    {
+        "id": 88,
+        "value": 65.57,
+        "category": "B"
+    },
+    {
+        "id": 89,
+        "value": 70.91,
+        "category": "A"
+    },
+    {
+        "id": 90,
+        "value": 11.69,
+        "category": "C"
+    },
+    {
+        "id": 91,
+        "value": 28.37,
+        "category": "A"
+    },
+    {
+        "id": 92,
+        "value": 56.07,
+        "category": "B"
+    },
+    {
+        "id": 93,
+        "value": 59.94,
+        "category": "B"
+    },
+    {
+        "id": 94,
+        "value": 93.04,
+        "category": "B"
+    },
+    {
+        "id": 95,
+        "value": 87.46,
+        "category": "B"
+    },
+    {
+        "id": 96,
+        "value": 52.44,
+        "category": "A"
+    },
+    {
+        "id": 97,
+        "value": 43.99,
+        "category": "D"
+    },
+    {
+        "id": 98,
+        "value": 39.81,
+        "category": "A"
+    },
+    {
+        "id": 99,
+        "value": 47.73,
+        "category": "A"
+    },
+    {
+        "id": 100,
+        "value": 13.22,
+        "category": "B"
+    }
+]
